@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Shakeel haider
+          Shakeel haider Mashwani
         </a>
       </header>
     </div>
